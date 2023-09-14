@@ -16,7 +16,7 @@ public class TestCase1 extends BaseTest{
 
     @BeforeMethod
     public void LaunchBrowser() {
-        System.out.println("Browser launched");
+        System.out.println("Browser launched"); //comment
     }
 
     @AfterMethod
